@@ -1,11 +1,10 @@
-## Hi there 👋 I'm ikkkp
+## Hi there 👋 I'm sun-cqy
 Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning front-end
-- 💬 Ask me about Ts/Vue/Rust
-- 📫 How to reach me: http://home.hzlssb.com
-- 😄 Read more about my blog: - 📫 How to reach me: [https://ikkkp.github.io/](https://ikkkp.github.io/)
+- 💬 Ask me about Js/Vue/Rust
+
 <div align="center">
   <!-- GitHub 数据统计 -->
   <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ikkkp&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
